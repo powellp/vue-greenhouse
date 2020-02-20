@@ -1,6 +1,6 @@
-# employeemanager
+# vue-greenhouse
 
-> employeemanager
+> greenhouse
 
 ## Build Setup
 
